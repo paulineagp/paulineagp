@@ -1,6 +1,6 @@
 ### Olá, tudo bem? Me chamo Paulinea e estou ingressando na área de TI.
 
-- 🌱 Atualmente estudando HTML, CSS, JavaScript e Bootstrap
+- 🌱 Atualmente estudando HTML, CSS, JavaScript e Bootstrap.
 - 📫 Fale comigo em: paulinea.gp@gmail.com
 
 
