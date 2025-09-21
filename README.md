@@ -1,8 +1,5 @@
 ### Olá, me chamo Paulinea e estou ingressando na área de TI.
 
-- 🌱 Atualmente estudando JavaScript e PHP.
-- Conhecimentos em Python, Java e MySQL.
-
 
 <div>
 <a href="https://github.com/paulineagp">
